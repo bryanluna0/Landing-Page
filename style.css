@@ -176,6 +176,7 @@ img {
 
 #signup .left {
     flex: 1;
+    flex-wrap: wrap;
 }
 
 .notice {
