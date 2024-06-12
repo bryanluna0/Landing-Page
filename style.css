@@ -161,3 +161,40 @@ img {
     text-align: right;
     font-size: 24px;
 }
+
+#signup {
+    padding: 100px;
+}
+
+#signup .rectangle {
+    margin: 0 auto;
+    background-color: #3882f6;
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+#signup .left {
+    flex: 1;
+}
+
+.notice {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.left .subtext {
+    color: #E5E7EB;
+    text-align: left;
+}
+
+#signup .right {
+    flex: 1;
+}
+
+#signup .right button {
+    padding: 8px;
+    border: 2px solid #F9FAF8;
+}
+
