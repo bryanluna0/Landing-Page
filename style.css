@@ -198,3 +198,12 @@ img {
     border: 2px solid #F9FAF8;
 }
 
+#footer {
+    display: flex;
+    background-color: #1f2937;
+    height: 120px;
+    font-size: 20px;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+}
